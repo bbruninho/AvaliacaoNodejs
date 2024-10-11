@@ -1,0 +1,22 @@
+{
+  "name": "avaliacaonodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbruninho/AvaliacaoNodejs.git"
+  },
+  "author": "Bruno Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bbruninho/AvaliacaoNodejs/issues"
+  },
+  "homepage": "https://github.com/bbruninho/AvaliacaoNodejs#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
